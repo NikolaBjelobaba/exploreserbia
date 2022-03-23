@@ -1,0 +1,39 @@
+.container
+{
+    color:silver;
+    font-size: 25px;
+    
+}
+.form-group
+{
+    border-bottom: 2px solid silver;
+}
+
+.form-control
+{
+    color:silver;
+    height: 25px;
+    font-size: 25px;
+    border: none;
+    background: none;
+    outline: none;
+}
+
+
+
+#municiplaity
+{
+    font-size:25px;
+    border-radius: 10px;
+    background-color: silver;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.label
+{
+    color:silver;
+    height: 25px;
+    font-size: 25px;
+}

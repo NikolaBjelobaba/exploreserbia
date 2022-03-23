@@ -1,0 +1,92 @@
+.mb-4{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.jumbotron{
+    background-image: url("/assets/images/lake-g108b203bc_1920.jpg");
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+.main-page-content {
+    background-color: #f1ebeb;
+}
+
+.btn {
+    margin-left: 10px;
+}
+
+.row{
+    margin: auto;
+}
+
+.display-1 {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
+
+a.card-title{
+    color: black;
+    font-weight: bold;
+}
+
+a.card-title:hover{
+    text-decoration: none;
+}
+
+.card-date{
+    color: #c6c6c6;
+}
+
+.author-link{
+    text-align: center;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.imgclass{
+    display:inline-block;
+    height: 40px;
+    width: 40px;
+    vertical-align:top;
+}
+
+.rating {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    margin-left: 10px;
+    float: right;
+    clear: none;
+}
+
+.checked {
+    color: orange;
+}
+
+.objava{
+    text-align:  justify;
+    margin-top: 30px;
+}
+
+.reklame {
+    margin-top: 30px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.reklama {
+    text-align:  justify;
+    margin-top: 30px;
+}
+
+.slia-reklame{
+    max-width: 50%;
+}
